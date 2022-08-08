@@ -1,0 +1,13 @@
+export type { IBaseURL } from './baseURL';
+export type { IPeople } from './people';
+export type { ICharacter } from './character';
+export type { IFilms } from './films';
+export type { IFilm } from './film';
+export type { IStarShips } from './starShips';
+export type { IStarShip } from './starShip';
+export type { IVehicles } from './vehicles';
+export type { IVehicle } from './vehicle';
+export type { ISpecies } from './species';
+export type { ISpecie } from './specie';
+export type { IPlanets } from './planets';
+export type { IPlanet } from './planet';
